@@ -8,7 +8,7 @@ To develop a convolutional autoencoder for image denoising application.
 A Denoising Autoencoder is a modification on the autoencoder to prevent the network learning the identity function.This helps to avoid the autoencoders to copy the input to the output without learning features about the data. These autoencoders take a partially corrupted input while training to recover the original undistorted input.
 The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
 
-![image](https://user-images.githubusercontent.com/63336975/201526521-c3676700-7d93-4d1e-a909-ede2ba226a9d.png)
+![image](https://user-images.githubusercontent.com/63336975/204121513-a244d614-0f7d-4d47-8615-77793fac3168.png)
 
 
 ## Convolution Autoencoder Network Model
